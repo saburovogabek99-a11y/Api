@@ -1,0 +1,6 @@
+{
+  "name": "Saburov API Service",
+  "description": "api.saburov.uz - Foydalanuvchilar o'rtasida xabarlar va ma'lumotlar almashish uchun Node.js REST API servisi va interaktiv Swagger/OpenAPI dokumentatsiyasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
